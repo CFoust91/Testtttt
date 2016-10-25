@@ -16,7 +16,7 @@ namespace employee
             CoolPerson.fName = "Evan";
             CoolPerson.lName = "Gudmestad";
             CoolPerson.salad = 30000;
-            
+            //
             Employee TeacherIveNeverHad = new Employee();
             TeacherIveNeverHad.idNum = 22763;
             TeacherIveNeverHad.fName = "Pat";
